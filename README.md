@@ -155,7 +155,7 @@ nohup python app.py > logs/app.log 2>&1 &
 # and set it to run at startup
 ```
 
-### Option 2: Render.com (Free Tier) ⭐ RECOMMENDED FREE CLOUD
+### Option 2: Render.com (Free Tier)  RECOMMENDED FREE CLOUD
 
 ** Pros:**
 - Completely FREE (750 hours/month)
